@@ -51,5 +51,6 @@ namespace DotNetKoans.CSharp
             Assert.Equal("John", firstName);
             Assert.Equal("Smith", lastName);
         }
+
     }
 }
